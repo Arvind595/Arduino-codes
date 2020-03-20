@@ -1,7 +1,9 @@
 /* Arduino ide version-1.8.12
+ *writen by:Arvindne555 
  * Aduino code to measure the analog voltage of the mic and covert to sound levels
  * using linear/recurresive curve fitting
  * Last modified: 1-3-2020
+ 
   The circuit:
    LCD RS pin to digital pin 12
    LCD Enable pin to digital pin 11
