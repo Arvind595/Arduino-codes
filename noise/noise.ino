@@ -1,5 +1,5 @@
 /* Arduino ide version-1.8.12
- *writen by:Arvindne555 
+ *writen by:Arvind
  * Aduino code to measure the analog voltage of the mic and covert to sound levels
  * using linear/recurresive curve fitting
  * Last modified: 1-3-2020
